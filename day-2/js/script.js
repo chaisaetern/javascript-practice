@@ -1,4 +1,6 @@
-console.log("Supercalifragilisticexpialidocious".length);
+let str = "Supercalifragilisticexpialidocious";
+let lengthOfStr = "Supercalifragilisticexpialidocious".length;
+console.log(str, lengthOfStr);
 
 console.log(500, typeof 500);
 
