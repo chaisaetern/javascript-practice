@@ -4,5 +4,5 @@ console.log(str, lengthOfStr);
 
 console.log(500, typeof 500);
 
-let bigNumber = 10000000000n;
-console.log(bigNumber, typeof bigNumber);
+let bigIntNumber = 10000000000n;
+console.log(bigIntNumber, typeof bigIntNumber);
